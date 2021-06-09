@@ -27,8 +27,3 @@ Developers (****)
 4. Prasanna Patel
 5. Dineesha soni
 6. Krushang satani
-
-Acknowledgements (****)
-Just for your reference
-The code is based on the official code of YOLO v3, PyTorch part of the original code, by marvis, as well as PyTorch implementation of the YOLO v3 by ayooshkathuria
-The weights file "yolov3.weights" is downloaded from here
