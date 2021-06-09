@@ -1,7 +1,9 @@
 # AI_Project
 Image colorization using CNN 
 	Main objective of image colorization is converted grey scale image (black and white) to colour image using CNN.
+
 	Colorization is the process of colouring monochrome images. It has been widely used in photo processing and scientific illustration.  
+
 	We have proposed a way to effectively colorize images with significantly reduced amount of user efforts.
 
 Requirements (*****)
@@ -17,7 +19,15 @@ How to run the application
 5) Paste the path in step 3 in google colab. (# Make sure the images are there)
 6) Then run each programme one after another.
 7) Click run in the results section.
+
 Developers (****)
+1. Chailcy patel
+2. Naisargi savaliya
+3. Avi shihora 
+4. Prasanna Patel
+5. Dineesha soni
+6. Krushang satani
+
 Acknowledgements (****)
 Just for your reference
 The code is based on the official code of YOLO v3, PyTorch part of the original code, by marvis, as well as PyTorch implementation of the YOLO v3 by ayooshkathuria
